@@ -1,7 +1,7 @@
 
 start chrome http://download.kony.com/visualizer_enterprise/citools/9.2.9/visualizer-ci-tool-9.2.9.zip
 
-unzip.exe C:\Users\V.Pavithra\Downloads\visualizer-ci-tool-9.2.9.zip
+C:\Users\V.Pavithra\Downloads\unzip.exe C:\Users\V.Pavithra\Downloads\visualizer-ci-tool-9.2.9.zip
 
 config.properties\propertiesrun.sh QA config.properties\Sample.properties Headlessbuild.properties
 
